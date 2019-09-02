@@ -2,24 +2,26 @@
 title: AppLocker (Windows 10)
 description: This topic provides a description of AppLocker and can help you decide if your organization can benefit from deploying AppLocker application control policies.
 ms.assetid: 94b57864-2112-43b6-96fb-2863c985dc9a
+ms.reviewer: 
+ms.author: dansimp
 ms.prod: w10
 ms.mktglfcycl: deploy
 ms.sitesec: library
 ms.pagetype: security
 ms.localizationpriority: medium
-author: justinha
+author: dansimp
 manager: dansimp
 audience: ITPro
 ms.collection: M365-security-compliance
 ms.topic: conceptual
-ms.date: 04/10/2019
+ms.date: 10/16/2017
 ---
 
 # AppLocker
 
 **Applies to**
- -   Windows 10 
- -   Windows Server
+- Windows 10
+- Windows Server
 
 This topic provides a description of AppLocker and can help you decide if your organization can benefit from deploying AppLocker application control policies. AppLocker helps you control which apps and files users can run. These include executable files, scripts, Windows Installer files, dynamic-link libraries (DLLs), packaged apps, and packaged app installers.
 
@@ -89,10 +91,10 @@ AppLocker rules can be created on domain controllers.
 AppLocker is included with enterprise-level editions of Windows. You can author AppLocker rules for a single computer or for a group of computers. For a single computer, you can author the rules by using the Local Security Policy editor (secpol.msc). For a group of computers, you can author the rules within a Group Policy Object by using the Group Policy Management Console (GPMC).
 
 > **Note:**  The GPMC is available in client computers running Windows only by installing the Remote Server Administration Tools. On computer running Windows Server, you must install the Group Policy Management feature.
- 
+ 
 ### Using AppLocker on Server Core
 
-AppLocker on Server Core installations is not supported. This applies to all versions of Windows Server. 
+AppLocker on Server Core installations is not supported.
 
 ### Virtualization considerations
 
@@ -130,7 +132,7 @@ For reference in your security planning, the following table identifies the base
 | Security Policies | None required. AppLocker creates security policies. | 
 | System Services required |Application Identity service (appidsvc) runs under LocalServiceAndNoImpersonation. |
 | Storage of credentials | None | 
- 
+ 
 ## In this section
 
 | Topic | Description |

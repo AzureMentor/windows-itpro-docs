@@ -2,11 +2,14 @@
 title: Set up digital signs on Windows 10  (Windows 10)
 description: A single-use device such as a digital sign is easy to set up in Windows 10 (Pro, Enterprise, and Education).
 ms.assetid: 428680AE-A05F-43ED-BD59-088024D1BFCC
+ms.reviewer: 
+manager: dansimp
+ms.author: dansimp
 keywords: ["assigned access", "kiosk", "lockdown", "digital sign", "digital signage", "kiosk browser", "browser"]
 ms.prod: w10
 ms.mktglfcycl: manage
 ms.sitesec: library
-author: jdeckerms
+author: dansimp
 ms.localizationpriority: medium
 ms.date: 10/02/2018
 ms.topic: article
@@ -25,8 +28,6 @@ For digital signage, simply select a digital sign player as your kiosk app. You 
 
 >[!TIP]
 >Kiosk Browser can also be used in [single-app kiosks](kiosk-single-app.md) and [multi-app kiosk](lock-down-windows-10-to-specific-apps.md) as a web browser. For more information, see [Guidelines for web browsers](guidelines-for-assigned-access-app.md#guidelines-for-web-browsers). 
->
->Be sure to check the [configuration recommendations](kiosk-prepare.md) before you set up your kiosk.
 
 Kiosk Browser must be downloaded for offline licensing using Microsoft Store for Business. You can deploy Kiosk Browser to devices running Windows 10, version 1803.
 

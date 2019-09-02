@@ -1,12 +1,14 @@
 ---
 title: Change history for Microsoft HoloLens documentation
+ms.reviewer: 
+manager: dansimp
 description: This topic lists new and updated topics for HoloLens.
 keywords: change history
 ms.prod: hololens
 ms.mktglfcycl: manage
 ms.sitesec: library
-author: jdeckerms
-ms.author: jdecker
+author: dansimp
+ms.author: dansimp
 ms.topic: article
 ms.localizationpriority: medium
 ---
@@ -19,7 +21,7 @@ This topic lists new and updated topics in the [Microsoft HoloLens documentation
 
 New or changed topic | Description
 --- | ---
-[Restart, reset, or recover HoloLens 2](hololens-recovery.md) | New
+[Restore HoloLens 2 using Advanced Recovery Companion](hololens-recovery.md) | New
 
 ## November 2018
 
@@ -48,11 +50,6 @@ New or changed topic | Description
 --- | ---
 Insider preview for Microsoft HoloLens | New (topic retired on release of Windows 10, version 1809)
 
-## June 2018
-
-New or changed topic | Description
---- | ---
-[HoloLens in the enterprise: requirements and FAQ](hololens-requirements.md#pin) | Added instructions for creating a sign-in PIN. 
 
 ## May 2018
 
@@ -83,12 +80,6 @@ New or changed topic | Description
 New or changed topic | Description
 --- | ---
 [Enable Bitlocker device encryption for HoloLens](hololens-encryption.md) | New
-
-## May 2017
-
-| New or changed topic | Description |
-| --- | --- |
-| [Microsoft HoloLens in the enterprise: requirements](hololens-requirements.md) | Changed title to **Microsoft HoloLens in the enterprise: requirements and FAQ**, added questions and answers in new [FAQ section](hololens-requirements.md#faq-for-hololens) |
 
 ## January 2017
 

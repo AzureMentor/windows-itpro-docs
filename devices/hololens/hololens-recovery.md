@@ -1,15 +1,17 @@
 ---
-title: Restart, reset, or recover HoloLens 2 
+title: Restore HoloLens 2 using Advanced Recovery Companion 
+ms.reviewer: 
+manager: dansimp
 description: How to use Advanced Recovery Companion to flash an image to HoloLens 2.
 ms.prod: hololens
 ms.sitesec: library
-author: jdeckerms
-ms.author: jdecker
+author: dansimp
+ms.author: dansimp
 ms.topic: article
 ms.localizationpriority: medium
 ---
 
-# Restart, reset, or recover HoloLens 2
+# Restore HoloLens 2 using Advanced Recovery Companion
 
 >[!TIP]
 >If you're having issues with HoloLens (the first device released), see [Restart, reset, or recover HoloLens](https://support.microsoft.com/help/13452/hololens-restart-reset-or-recover-hololens). Advanced Recovery Companion is only supported for HoloLens 2.
